@@ -1,5 +1,6 @@
 <mujoco model="Arena">
-  <include file="panda.xml"/>
+  <include file="FR3_cams.xml"/>
+
 
   <option timestep=".002" noslip_iterations="5" noslip_tolerance="0"/>
 
